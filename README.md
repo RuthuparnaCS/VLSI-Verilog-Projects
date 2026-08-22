@@ -26,7 +26,7 @@ Each project is in its own folder with:
 
 ### 🔹 Basics (3rd Sem)  
 1. [Half Adder & Full Adder](01_HalfAdder_FullAdder/)  
-2. [4-bit Ripple Carry Adder](02_RippleCarryAdder/)  
+2. [4-bit Ripple Carry Adder](02_Ripple_Carry_Adder/)  
 3. [MUX/DEMUX, Encoder/Decoder](03_Mux_Encoder_Decoder/)  
 4. [Flip-Flops & Counters](04_FlipFlops_Counters/)  
 
@@ -51,7 +51,7 @@ Each project is in its own folder with:
 
 ## ✅ Progress Tracker  
 - [x] Half Adder / Full Adder  
-- [ ] Ripple Carry Adder  
+- [x] Ripple Carry Adder  
 - [ ] MUX/DEMUX, Encoder/Decoder  
 - [ ] Flip-Flops & Counters  
 - [ ] ALU  
