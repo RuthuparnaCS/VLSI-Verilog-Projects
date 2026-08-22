@@ -52,7 +52,7 @@ Each project is in its own folder with:
 ## ✅ Progress Tracker  
 - [x] Half Adder / Full Adder  
 - [x] Ripple Carry Adder  
-- [ ] MUX/DEMUX, Encoder/Decoder  
+- [x] MUX/DEMUX, Encoder/Decoder  
 - [ ] Flip-Flops & Counters  
 - [ ] ALU  
 - [ ] FSM – Sequence Detector  
