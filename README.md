@@ -56,7 +56,7 @@ Each project is in its own folder with:
 - [x] Flip-Flops & Counters  
 - [x] ALU  
 - [x] FSM – Sequence Detector  
-- [ ] Traffic Light Controller  
+- [x] Traffic Light Controller  
 - [ ] Parametric Designs  
 - [ ] CMOS Inverter  
 - [ ] NAND/NOR Gates  
