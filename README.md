@@ -58,7 +58,7 @@ Each project is in its own folder with:
 - [x] FSM – Sequence Detector  
 - [x] Traffic Light Controller  
 - [x] Parametric Designs  
-- [ ] CMOS Inverter  
+- [x] CMOS Inverter  
 - [ ] NAND/NOR Gates  
 - [ ] SRAM Cell  
 - [ ] ALU with Gate Sim  
