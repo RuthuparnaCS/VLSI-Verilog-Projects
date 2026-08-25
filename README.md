@@ -55,7 +55,7 @@ Each project is in its own folder with:
 - [x] MUX/DEMUX, Encoder/Decoder  
 - [x] Flip-Flops & Counters  
 - [x] ALU  
-- [ ] FSM – Sequence Detector  
+- [x] FSM – Sequence Detector  
 - [ ] Traffic Light Controller  
 - [ ] Parametric Designs  
 - [ ] CMOS Inverter  
