@@ -54,7 +54,7 @@ Each project is in its own folder with:
 - [x] Ripple Carry Adder  
 - [x] MUX/DEMUX, Encoder/Decoder  
 - [x] Flip-Flops & Counters  
-- [ ] ALU  
+- [x] ALU  
 - [ ] FSM – Sequence Detector  
 - [ ] Traffic Light Controller  
 - [ ] Parametric Designs  
