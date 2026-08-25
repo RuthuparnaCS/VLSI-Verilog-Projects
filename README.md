@@ -49,9 +49,8 @@ Each project is in its own folder with:
 
 ### 🔹 Advanced Projects
 
-13. Basic 8-bit RISC Processor — *Coming soon*
-14. Timing Analysis (Delay, Setup, Hold) — *Coming soon*
-
+13. [Basic 8-bit RISC Processor](13_RISCProcessor/) — *Coming soon*
+14. [Timing Analysis (Delay, Setup, Hold)](14_TimingAnalysis/) — *Coming soon*
 ## ✅ Progress Tracker
 
 - [x] Half Adder / Full Adder
