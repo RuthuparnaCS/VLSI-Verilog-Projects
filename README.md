@@ -53,7 +53,7 @@ Each project is in its own folder with:
 - [x] Half Adder / Full Adder  
 - [x] Ripple Carry Adder  
 - [x] MUX/DEMUX, Encoder/Decoder  
-- [ ] Flip-Flops & Counters  
+- [x] Flip-Flops & Counters  
 - [ ] ALU  
 - [ ] FSM – Sequence Detector  
 - [ ] Traffic Light Controller  
