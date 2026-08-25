@@ -24,50 +24,54 @@ Each project is in its own folder with:
 
 ## 📑 Project List  
 
-### 🔹 Basics (3rd Sem)  
-1. [Half Adder & Full Adder](01_HalfAdder_FullAdder/)  
-2. [4-bit Ripple Carry Adder](02_Ripple_Carry_Adder/)  
-3. [MUX/DEMUX, Encoder/Decoder](03_Mux_Encoder_Decoder/)  
-4. [Flip-Flops & Counters](04_FlipFlops_Counters/)  
+## 📑 Project List
 
-### 🔹 Intermediate (Late 3rd – 4th Sem)  
-5. [4-bit ALU](05_ALU/)  
-6. [FSM – Sequence Detector](06_SequenceDetector/)  
-7. [Traffic Light Controller](07_TrafficLightController/)  
-8. [Parametric n-bit Designs](08_ParametricDesigns/)  
+### 🔹 Beginner Projects
 
-### 🔹 VLSI-Oriented (4th Sem)  
-9. [CMOS Inverter (VTC, Noise Margin)](09_CMOSInverter/)  
-10. [NAND/NOR Gate CMOS Design](10_CMOSGates/)  
-11. [6T SRAM Cell Design](11_SRAMCell/)  
-12. [ALU with Gate-Level Simulation](12_ALU_GateSim/)  
+1. [Half Adder / Full Adder](01_HalfAdder_FullAdder/)
+2. [4-bit Ripple Carry Adder](02_Ripple_Carry_Adder/)
+3. [MUX/DEMUX, Encoder/Decoder](03_MUX_DEMUX_Encoder_Decoder/)
+4. [Flip-Flops & Counters](04_FlipFlops_Counters/)
 
-### 🔹 Advanced Projects (End of 4th Sem → Beyond)  
-13. [UART Tx/Rx](13_UART/)  
-14. [Basic 8-bit RISC Processor](14_RISCProcessor/)  
-15. [Timing Analysis (Delay, Setup, Hold)](15_TimingAnalysis/)  
+### 🔹 Intermediate Projects
 
----
+5. [4-bit ALU](05_ALU/)
+6. [FSM – Sequence Detector](06_FSM_Sequence_Detector/)
+7. [Traffic Light Controller](07_Traffic_Light_Controller/)
+8. [Parametric n-bit Designs](08_Parametric_Designs/)
 
-## ✅ Progress Tracker  
-- [x] Half Adder / Full Adder  
-- [x] Ripple Carry Adder  
-- [x] MUX/DEMUX, Encoder/Decoder  
-- [x] Flip-Flops & Counters  
-- [x] ALU  
-- [x] FSM – Sequence Detector  
-- [x] Traffic Light Controller  
-- [x] Parametric Designs  
-- [x] CMOS Inverter  
-- [ ] NAND/NOR Gates  
-- [ ] SRAM Cell  
-- [ ] ALU with Gate Sim  
-- [ ] UART  
-- [ ] RISC Processor  
-- [ ] Timing Analysis  
+### 🔹 VLSI-Oriented Projects
 
----
+9. [CMOS Basics](09_CMOS_Basics/)
+10. [6T SRAM Cell Design](10_SRAM_6T/)
+11. [ALU with Gate-Level Simulation](11_Gate_Level_ALU/)
+12. [UART Tx/Rx](12_UART/)
 
-## 📌 Notes  
-- Each project folder has **code + testbench + waveform + mini README**.  
-- I’ll keep updating this repo as I progress in my **VLSI engineering journey** 🚀.
+### 🔹 Advanced Projects
+
+13. Basic 8-bit RISC Processor — *Coming soon*
+14. Timing Analysis (Delay, Setup, Hold) — *Coming soon*
+
+## ✅ Progress Tracker
+
+- [x] Half Adder / Full Adder
+- [x] Ripple Carry Adder
+- [x] MUX/DEMUX, Encoder/Decoder
+- [x] Flip-Flops & Counters
+- [x] 4-bit ALU
+- [x] FSM – Sequence Detector
+- [x] Traffic Light Controller
+- [x] Parametric Designs
+- [x] CMOS Inverter
+- [x] CMOS NAND/NOR Gates
+- [x] 6T SRAM Functional Model
+- [x] Gate-Level 4-bit ALU
+- [x] UART Tx/Rx
+- [ ] Basic 8-bit RISC Processor
+- [ ] Timing Analysis
+
+## 📌 Notes
+
+- Each completed project contains Verilog RTL and a corresponding testbench.
+- Simulation waveforms are generated during verification and kept out of the repository.
+- This repository documents my progression from basic digital design to VLSI-oriented RTL projects.
