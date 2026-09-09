@@ -49,7 +49,7 @@ Each project is in its own folder with:
 
 ### 🔹 Advanced Projects
 
-13. [Basic 8-bit RISC Processor](13_RISCProcessor/) — *Coming soon*
+13. [Basic 8-bit RISC Processor](13_RISCProcessor/) — completed
 14. [Timing Analysis (Delay, Setup, Hold)](14_TimingAnalysis/) — *Coming soon*
 ## ✅ Progress Tracker
 
@@ -66,7 +66,7 @@ Each project is in its own folder with:
 - [x] 6T SRAM Functional Model
 - [x] Gate-Level 4-bit ALU
 - [x] UART Tx/Rx
-- [ ] Basic 8-bit RISC Processor
+- [x] Basic 8-bit RISC Processor
 - [ ] Timing Analysis
 
 ## 📌 Notes
