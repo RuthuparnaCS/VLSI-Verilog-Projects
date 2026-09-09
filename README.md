@@ -49,7 +49,7 @@ Each project is in its own folder with:
 
 ### 🔹 Advanced Projects
 
-13. [Basic 8-bit RISC Processor](13_RISCProcessor/) — completed
+13. [Basic 8-bit RISC Processor](13_RiscProcessor/) — completed
 14. [Timing Analysis (Delay, Setup, Hold)](14_TimingAnalysis/) — *Coming soon*
 ## ✅ Progress Tracker
 
