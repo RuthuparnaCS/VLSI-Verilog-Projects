@@ -1,7 +1,7 @@
 # 📘 VLSI & Verilog Projects  
 
-Welcome to my collection of **Digital Design & VLSI projects** implemented in **Verilog/SystemVerilog**.  
-This repo is a structured portfolio of my learning journey from **basic combinational circuits → sequential designs → FSMs → CMOS-level projects → mini processors**.  
+Welcome to my collection of **Digital Design & VLSI projects** implemented in **Verilog**.  
+This repo is a structured representation of my learning journey from **basic combinational circuits → sequential designs → FSMs → CMOS-level projects → mini processors**.  
 
 ---
 
@@ -9,15 +9,14 @@ This repo is a structured portfolio of my learning journey from **basic combinat
 - **Languages:** Verilog, SystemVerilog  
 - **Simulation Tools:** Icarus Verilog, ModelSim, GTKWave  
 - **Synthesis Tools:** Yosys (Open-Source), OpenLane (ASIC Flow)  
-- **EDA Tools (if available):** Cadence, Tanner, Synopsys  
+- **EDA Tools (if available):** Cadence, Synopsys  
 
 ---
 
 ## 📂 Project Structure  
 Each project is in its own folder with:  
 - `.v` – RTL design file  
-- `testbench.v` – Testbench for simulation  
-- `waveforms.png` – Simulation result (GTKWave/ModelSim)  
+- `testbench.v` – Testbench for simulation   
 - `README.md` – Short explanation of design  
 
 ---
